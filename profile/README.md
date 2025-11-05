@@ -11,6 +11,7 @@ ListMagic is the AI Chrome Extension designed to help Shopify store owners insta
 ### 🎯 The Problem We Solve
 
 Every day, Shopify sellers waste hours switching between:
+
 - Researching competitor products
 - Writing compelling product descriptions
 - Optimizing for SEO and conversions
